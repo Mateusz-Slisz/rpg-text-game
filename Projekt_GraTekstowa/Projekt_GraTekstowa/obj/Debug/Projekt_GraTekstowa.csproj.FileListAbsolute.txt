@@ -1,0 +1,49 @@
+C:\Users\black\source\repos\Projekt_GraTekstowa\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.csprojResolveAssemblyReference.cache
+C:\Users\black\source\repos\Projekt_GraTekstowa\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.csproj.CoreCompileInputs.cache
+C:\Users\black\source\repos\Projekt_GraTekstowa\Projekt_GraTekstowa\bin\Debug\Projekt_GraTekstowa.exe.config
+C:\Users\black\source\repos\Projekt_GraTekstowa\Projekt_GraTekstowa\bin\Debug\Projekt_GraTekstowa.exe
+C:\Users\black\source\repos\Projekt_GraTekstowa\Projekt_GraTekstowa\bin\Debug\Projekt_GraTekstowa.pdb
+C:\Users\black\source\repos\Projekt_GraTekstowa\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.exe
+C:\Users\black\source\repos\Projekt_GraTekstowa\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.pdb
+C:\Users\Windows\Desktop\Projekt\Projekt_GraTekstowa Skrobiesobie\Projekt_GraTekstowa\bin\Debug\Projekt_GraTekstowa.exe.config
+C:\Users\Windows\Desktop\Projekt\Projekt_GraTekstowa Skrobiesobie\Projekt_GraTekstowa\bin\Debug\Projekt_GraTekstowa.exe
+C:\Users\Windows\Desktop\Projekt\Projekt_GraTekstowa Skrobiesobie\Projekt_GraTekstowa\bin\Debug\Projekt_GraTekstowa.pdb
+C:\Users\Windows\Desktop\Projekt\Projekt_GraTekstowa Skrobiesobie\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Desktop\Projekt\Projekt_GraTekstowa Skrobiesobie\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Projekt\Projekt_GraTekstowa Skrobiesobie\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.exe
+C:\Users\Windows\Desktop\Projekt\Projekt_GraTekstowa Skrobiesobie\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.pdb
+C:\Users\Windows\Desktop\Projekt\Projekt_GraTekstowa wer2.0konrad\Projekt_GraTekstowa\bin\Debug\Projekt_GraTekstowa.exe.config
+C:\Users\Windows\Desktop\Projekt\Projekt_GraTekstowa wer2.0konrad\Projekt_GraTekstowa\bin\Debug\Projekt_GraTekstowa.exe
+C:\Users\Windows\Desktop\Projekt\Projekt_GraTekstowa wer2.0konrad\Projekt_GraTekstowa\bin\Debug\Projekt_GraTekstowa.pdb
+C:\Users\Windows\Desktop\Projekt\Projekt_GraTekstowa wer2.0konrad\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Desktop\Projekt\Projekt_GraTekstowa wer2.0konrad\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Projekt\Projekt_GraTekstowa wer2.0konrad\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.exe
+C:\Users\Windows\Desktop\Projekt\Projekt_GraTekstowa wer2.0konrad\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.pdb
+C:\Users\black\Desktop\Projekt_GraTekstowa wer2.0konrad\Projekt_GraTekstowa\bin\Debug\Projekt_GraTekstowa.exe.config
+C:\Users\black\Desktop\Projekt_GraTekstowa wer2.0konrad\Projekt_GraTekstowa\bin\Debug\Projekt_GraTekstowa.exe
+C:\Users\black\Desktop\Projekt_GraTekstowa wer2.0konrad\Projekt_GraTekstowa\bin\Debug\Projekt_GraTekstowa.pdb
+C:\Users\black\Desktop\Projekt_GraTekstowa wer2.0konrad\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.csprojResolveAssemblyReference.cache
+C:\Users\black\Desktop\Projekt_GraTekstowa wer2.0konrad\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.csproj.CoreCompileInputs.cache
+C:\Users\black\Desktop\Projekt_GraTekstowa wer2.0konrad\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.exe
+C:\Users\black\Desktop\Projekt_GraTekstowa wer2.0konrad\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.pdb
+C:\Users\black\Desktop\Projekt_GraTekstowa wer3.0konradmati\Projekt_GraTekstowa\bin\Debug\Projekt_GraTekstowa.exe.config
+C:\Users\black\Desktop\Projekt_GraTekstowa wer3.0konradmati\Projekt_GraTekstowa\bin\Debug\Projekt_GraTekstowa.exe
+C:\Users\black\Desktop\Projekt_GraTekstowa wer3.0konradmati\Projekt_GraTekstowa\bin\Debug\Projekt_GraTekstowa.pdb
+C:\Users\black\Desktop\Projekt_GraTekstowa wer3.0konradmati\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.csprojResolveAssemblyReference.cache
+C:\Users\black\Desktop\Projekt_GraTekstowa wer3.0konradmati\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.csproj.CoreCompileInputs.cache
+C:\Users\black\Desktop\Projekt_GraTekstowa wer3.0konradmati\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.exe
+C:\Users\black\Desktop\Projekt_GraTekstowa wer3.0konradmati\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.pdb
+C:\Users\Szymon\Desktop\Projekt_GraTekstowa wer3.0konradmati\Projekt_GraTekstowa\bin\Debug\Projekt_GraTekstowa.exe.config
+C:\Users\Szymon\Desktop\Projekt_GraTekstowa wer3.0konradmati\Projekt_GraTekstowa\bin\Debug\Projekt_GraTekstowa.exe
+C:\Users\Szymon\Desktop\Projekt_GraTekstowa wer3.0konradmati\Projekt_GraTekstowa\bin\Debug\Projekt_GraTekstowa.pdb
+C:\Users\Szymon\Desktop\Projekt_GraTekstowa wer3.0konradmati\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.csprojResolveAssemblyReference.cache
+C:\Users\Szymon\Desktop\Projekt_GraTekstowa wer3.0konradmati\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\Projekt_GraTekstowa wer3.0konradmati\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.exe
+C:\Users\Szymon\Desktop\Projekt_GraTekstowa wer3.0konradmati\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.pdb
+C:\Users\black\Desktop\Projekt_GraTekstowa\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.csprojResolveAssemblyReference.cache
+C:\Users\black\Desktop\Projekt_GraTekstowa\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.csproj.CoreCompileInputs.cache
+C:\Users\black\Desktop\Projekt_GraTekstowa\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.exe
+C:\Users\black\Desktop\Projekt_GraTekstowa\Projekt_GraTekstowa\obj\Debug\Projekt_GraTekstowa.pdb
+C:\Users\black\Desktop\Projekt_GraTekstowa\Projekt_GraTekstowa\bin\Debug\Projekt_GraTekstowa.exe.config
+C:\Users\black\Desktop\Projekt_GraTekstowa\Projekt_GraTekstowa\bin\Debug\Projekt_GraTekstowa.exe
+C:\Users\black\Desktop\Projekt_GraTekstowa\Projekt_GraTekstowa\bin\Debug\Projekt_GraTekstowa.pdb
